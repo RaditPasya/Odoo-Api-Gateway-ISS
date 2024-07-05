@@ -19,5 +19,5 @@
 #
 ###############################################################################
 
-from . import student_controller, jurnal_controller
+from . import student_controller, jurnal_controller, auth_controller,tugas_controller
 
